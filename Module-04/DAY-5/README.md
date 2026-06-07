@@ -25,9 +25,9 @@ To write a Java program that implements the Factory Design Pattern to create and
 ## PROGRAM:
  ```
 /*
-Program to implement a Abstract Factory Pattern using Java
-Developed by: KEERTHANA S
-RegisterNumber:212223040092
+Program to implement a conditional statement using Java
+Developed by: EZHIL SREE J
+RegisterNumber: 212223230056
 */
 ```
 
