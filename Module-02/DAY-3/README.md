@@ -23,9 +23,9 @@ To write a Java program that demonstrates the use of access specifiers, specific
 ## PROGRAM:
  ```
 /*
-Program to implement a Access Specifiers using Java
-Developed by: KEERTHANA S
-RegisterNumber:212223040092
+Program to implement a conditional statement using Java
+Developed by: EZHIL SREE J
+RegisterNumber: 212223230056
 */
 ```
 
