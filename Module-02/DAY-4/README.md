@@ -19,9 +19,9 @@ To write a Java program to demonstrate variable scope and the use of a construct
 ## PROGRAM:
  ```
 /*
-Program to implement a Variable scope and Constructor using Java
-Developed by: KEERTHANA S
-RegisterNumber:212223040092 
+Program to implement a conditional statement using Java
+Developed by: EZHIL SREE J
+RegisterNumber: 212223230056
 */
 ```
 
