@@ -20,9 +20,9 @@ To write a Java program demonstrating Inheritance and Aggregation by creating su
 ## PROGRAM:
  ```
 /*
-Program to implement a Inheritance and Aggregation using Java
-Developed by: KEERTHANA S
-RegisterNumber:212223040092
+Program to implement a conditional statement using Java
+Developed by: EZHIL SREE J
+RegisterNumber: 212223230056
 */
 ```
 
