@@ -22,9 +22,9 @@ To write a Java program demonstrating Composition and Abstract Factory Pattern b
 ## PROGRAM:
  ```
 /*
-Program to implement a Composition Concepts in Java
-Developed by: KEERTHANA S
-RegisterNumber:212223040092
+Program to implement a conditional statement using Java
+Developed by: EZHIL SREE J
+RegisterNumber: 212223230056
 */
 ```
 
