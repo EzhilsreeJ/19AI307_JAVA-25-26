@@ -20,9 +20,9 @@ To write a Java program that demonstrates the use of access modifiers through st
 ## PROGRAM:
  ```
 /*
-Program to implement a Access Modifiers using Java
-Developed by: KEERTHANA S
-RegisterNumber:212223040092 
+Program to implement a conditional statement using Java
+Developed by: EZHIL SREE J
+RegisterNumber: 212223230056
 */
 ```
 
