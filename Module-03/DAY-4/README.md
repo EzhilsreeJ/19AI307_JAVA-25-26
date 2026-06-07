@@ -22,9 +22,9 @@ StrictJudge: WIN if diff ≥ 10, DRAW if < 10
 ## PROGRAM:
  ```
 /*
-Program to implement a Interface using Java
-Developed by: KEERTHANA S
-RegisterNumber:212223040092
+Program to implement a conditional statement using Java
+Developed by: EZHIL SREE J
+RegisterNumber: 212223230056
 */
 ```
 
