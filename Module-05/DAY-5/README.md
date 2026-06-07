@@ -28,9 +28,9 @@ To write a Java program that uses a Fixed Thread Pool to process a set of number
 ## PROGRAM:
  ```
 /*
-Program to implement a Synchronization concept using Java
-Developed by: KEERTHANA S
-RegisterNumber:212223040092
+Program to implement a conditional statement using Java
+Developed by: EZHIL SREE J
+RegisterNumber: 212223230056
 */
 ```
 
